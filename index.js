@@ -10,37 +10,37 @@ function toggleMenu() {
 
 const featuredSpeakers = [
   {
-    imageSrc: '../images/speaker 2.png',
+    imageSrc: 'images/speaker 2.png',
     name: 'Yochai Benkler',
     title: 'Berkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
     description: 'Benkler studies commons-based peer production, and published his seminal book, The Wealth of Networks in 2006',
   },
   {
-    imageSrc: '../images/speaker 2.png',
+    imageSrc: 'images/speaker 2.png',
     name: 'Yochai Benkler',
     title: 'Berkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
     description: 'Benkler studies commons-based peer production, and published his seminal book, The Wealth of Networks in 2006',
   },
   {
-    imageSrc: '../images/speaker 2.png',
+    imageSrc: 'images/speaker 2.png',
     name: 'Yochai Benkler',
     title: 'Berkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
     description: 'Benkler studies commons-based peer production, and published his seminal book, The Wealth of Networks in 2006',
   },
   {
-    imageSrc: '../images/speaker 2.png',
+    imageSrc: 'images/speaker 2.png',
     name: 'Yochai Benkler',
     title: 'Berkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
     description: 'Benkler studies commons-based peer production, and published his seminal book, The Wealth of Networks in 2006',
   },
   {
-    imageSrc: '../images/speaker 2.png',
+    imageSrc: 'images/speaker 2.png',
     name: 'Yochai Benkler',
     title: 'Berkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
     description: 'Benkler studies commons-based peer production, and published his seminal book, The Wealth of Networks in 2006',
   },
   {
-    imageSrc: '../images/speaker 2.png',
+    imageSrc: 'images/speaker 2.png',
     name: 'Yochai Benkler',
     title: 'Berkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
     description: 'Benkler studies commons-based peer production, and published his seminal book, The Wealth of Networks in 2006',
