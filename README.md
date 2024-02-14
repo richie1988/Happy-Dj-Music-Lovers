@@ -65,7 +65,7 @@ Javascript
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link] [(https://richie1988.github.io/RichieCampstone.github.io/)]
+- [ Live Demo] (https://richie1988.github.io/Happy-Dj-Music-Lovers/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
